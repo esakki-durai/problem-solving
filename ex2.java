@@ -1,3 +1,6 @@
+//input:A1b2c3d4
+//output:d1c2b3A4
+//this zoho second round probelm solving program.
 class ex2 { 
     public static void main (String[] args) {
         String str="A1b2c3d4";
