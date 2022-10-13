@@ -1,11 +1,13 @@
 //input:A1b2c3d4
 //output:d1c2b3A4
-//this zoho second round probelm solving program.
+//this is  zoho second round probelm solving program.
+//we have swap the first and last character if that both alphabet.
+//then change a first or last character
 class ex2 { 
     public static void main (String[] args) {
         String str="A1b2c3d4";
         System.out.println("Your entered string is,\t"+str);
-        char[]  chars=str.toCharArray();
+        char[]  chars=str.toCharArray();//string is immutable so we change string into array.
         for(char c:chars){
            System.out.print(c);}
 
