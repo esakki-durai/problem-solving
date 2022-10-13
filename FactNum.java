@@ -1,3 +1,6 @@
+//factorial of the given number 
+//input:1   output:1
+//input:5   output:720
 import java.util.Scanner;
 class FactNum{
 public static void main(String[] args){
