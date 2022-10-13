@@ -1,3 +1,5 @@
+//reverse a given number if it is full integer
+//input: 123456     output:654321
 import java.util.Scanner;
 class ReverseNum{
 public static void main(String[] args){
