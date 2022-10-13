@@ -1,3 +1,5 @@
+//input:a2b3c4d5
+//output:aabbbccccddddd
 import java.util.Scanner;
 class PrintingString {
     public static void main(String[]  args) {
