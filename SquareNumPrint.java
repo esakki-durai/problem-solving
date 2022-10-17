@@ -1,3 +1,17 @@
+//Tthis is zoho problem solving program
+//input :4
+/*
+C:\Users\ELCOT\Documents\probelm-solving>javac SquareNumPrint.java
+
+C:\Users\ELCOT\Documents\probelm-solving>java SquareNumPrint
+4  4  4  4  4  4  4
+4  3  3  3  3  3  4
+4  3  2  2  2  3  4
+4  3  2  1  2  3  4
+4  3  2  2  2  3  4
+4  3  3  3  3  3  4
+4  4  4  4  4  4  4
+*/
 class SquareNumPrint{
 public static void main(String[] args){
       	int [] []arr=new int[8] [8];
