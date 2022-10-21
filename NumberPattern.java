@@ -1,12 +1,10 @@
-//this is a zoho probelm solving programming
-//input  5
-
-
-/*output
+/*This is a zoho probelm solving programming
+input:5
+output:
          1
       2  6
    3   7  10
-   4 8 11 13
+ 4 8 11 13
    58  12 14 15     */
 class NumberPattern{
 public static void main(String[] args){
