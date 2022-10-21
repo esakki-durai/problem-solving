@@ -3,10 +3,10 @@
 2.sort only a even row
 3.and print the array
 output is 
--8  1  2  9
-5  7  2  7
-0  1  4  9
-7  -9  8  -2
+-8   1   2   9
+5    7   2   7
+0    1   4   9
+7   -9   8  -2
 */
 class EvenSort{
 public static void main(String[] args) {
