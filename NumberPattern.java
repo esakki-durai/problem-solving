@@ -1,7 +1,7 @@
 /*This is a zoho probelm solving programming
 input:5
 output:
-/*                        1
+/*                      1
                   2     6
             3     7     10
       4     8     11    13
