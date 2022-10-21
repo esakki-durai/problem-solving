@@ -1,9 +1,7 @@
 //Tthis is zoho problem solving program
 //input :4
 /*
-C:\Users\ELCOT\Documents\probelm-solving>javac SquareNumPrint.java
-
-C:\Users\ELCOT\Documents\probelm-solving>java SquareNumPrint
+output:
 4  4  4  4  4  4  4
 4  3  3  3  3  3  4
 4  3  2  2  2  3  4
