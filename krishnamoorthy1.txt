@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main(){
+	int a;
+	printf("Enter a number\n");
+	scanf("%d",&a);
+    int t=a;
+	int f=1;
+	int sum=0;
+	while(a>0){
+	    int b=a%10;
+	    a=a/10;
+		for(int i=b;i>1;i--){
+			f=f*i;}
+			sum=sum+f;}
+    if(t==sum){printf("The number is krishnamoorthy number\n");}
+    else{printf("The number is krishnamoorthy number");}}
