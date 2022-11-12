@@ -1,4 +1,5 @@
 //Find the modenumber of an array.modenumber means most repeated value
+//outpput: The mode of array is: 3
 class ModeOfArray{
 public static void main(String[] args) {
 	int n=5,a[]={2,4,3,1,3},count,topvalue=0,topcount=0;
