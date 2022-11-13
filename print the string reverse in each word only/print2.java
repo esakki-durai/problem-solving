@@ -1,3 +1,6 @@
+/*
+output:iarud ikkase olleH
+*/
 import java.io.*;
 import java.util.*;
 class print2{
@@ -11,6 +14,4 @@ class print2{
 				System.out.print(" ");
 				j=i+1;
 				i++;}
-			else i++;}}}
-		
-		
+			else i++;}}
